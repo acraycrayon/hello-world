@@ -1,2 +1,4 @@
 # hello-world
-To learn GitHub
+The purpose of this entire repository is to learn GitHub.
+
+Have a nice day.
